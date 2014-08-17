@@ -53,6 +53,7 @@ coverage.xml
 docs/_build/
 
 # C
+a.out
 *.o
 
 
